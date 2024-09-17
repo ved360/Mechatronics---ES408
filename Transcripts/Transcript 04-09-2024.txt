@@ -1,0 +1,25 @@
+Transcript 
+Date -04/09/24 
+
+
+0:00 - 1:00 How did you choose the motors? What are the motors that you are using? How do you plan to control them if they are DC motors? So, you wanna write your own control code. I encourage you not to write code unless you're really passionate about it. 
+
+1:00 - 2:00 use servo motors that already come with a control system that will make your work easy or use steppers. Why do you need high torque motors? 
+
+2:00 - 3:00 I think that there are no two tables. I assumed some distance. I will say take this table and assume that you have your tea bags here. So, imagine that your entire workspace  is on this table. You pick them up and put them in the box.
+
+3:00 - 4:00 That is too large to do that and there is no learning in this course. What sensors are you going to use? You can make assumptions that will help to simplify the problem for the initial stages.
+
+4:00 - 5:00 Drawings are not made. You can use open source CAD models but site them. Use the silicon model CAD available online and site it.
+
+5:00 - 6:00 Yale has open source soft gripper projects with a lot of designs, refer them. 
+
+6:00 - 7:00 The problem is coming from the industry. So, you can use some tea bags from the market and use them for reference.
+
+7:00 - 9:00 Some examples of tea bags production companies are discussed.
+
+9:00 - 10:00 You can assume that the tea bags are coming in the bunch of 25 and you can place the bags where you want. It is recommended to use a servo motor. 
+
+12:00 - 13:00 You can go with PR joints but to compensate for the box orientation you can add an additional degree of freedom that will handle the gripper motion.
+
+13:00 - 14:00 The idea of picking up the box and then picking the tea bags is too time consuming. No factory will like this solution. 
